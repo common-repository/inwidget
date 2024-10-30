@@ -1,0 +1,64 @@
+# Translation of Plugins - Instagram Widget &#8211; We`re on Instagram - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - Instagram Widget &#8211; We`re on Instagram - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-11-11 20:06:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Instagram Widget &#8211; We`re on Instagram - Development (trunk)\n"
+
+#. Description of the plugin/theme
+msgid "This plugin will quickly display the Instagram profile on the site. For display \"We are on Instagram\" using shortcode [instagram_widget user_name = \"insta_user_name\" /] or installation widget in WordPress `Appearance > Widgets`."
+msgstr "Этот плагин отобразит профиль Instagram на вашем сайте! Для отображения виджета «Мы в Instagram» используйте шорткод [instagram_widget user_name = \"insta_user_name\" /] или установите виджет в консоли WordPress `Внешний вид> Виджеты`."
+
+#. Plugin Name of the plugin/theme
+msgid "Instagram Widget - We`re on Instagram"
+msgstr "Instagram виджет - Мы в Instagram"
+
+#: InWidget.php:139
+msgid "Height Instagram widget (px)"
+msgstr "Высота Instagram виджета (px)"
+
+#: InWidget.php:138
+msgid "Width Instagram widget (px)"
+msgstr "Ширина Instagram виджета (px)"
+
+#. Plugin URI of the plugin/theme
+msgid "https://ru.wordpress.org/plugins/inwidget/"
+msgstr "https://ru.wordpress.org/plugins/inwidget/"
+
+#. Author of the plugin/theme
+msgid "Ruslan Heorhiiev, Alexandr Kazarmshchikov"
+msgstr "Руслан Георгиев"
+
+#: InWidget.php:140
+msgid "Photos in the Instagram widget string"
+msgstr "Изображений в строке Instagram виджета"
+
+#: InWidget.php:137
+msgid "Username Instagram profile"
+msgstr "Логин пользователя Instagram"
+
+#: InWidget.php:136
+msgid "Title Instagram widget"
+msgstr "Название Instagram-виджета"
+
+#: InWidget.php:135
+msgid "Title"
+msgstr "Название"
+
+#: InWidget.php:126
+msgid "We are in Instagram"
+msgstr "Мы в Instagram"
+
+#: InWidget.php:92
+msgid "Display Instagram widget."
+msgstr "Вывод Instagram-виджета."
+
+#: InWidget.php:90
+msgid "Instagram widget"
+msgstr "Instagram-виджет"
